@@ -1,0 +1,5 @@
+homepage: "https://www.nowdialogue.com"
+documentation: "https://help.nowdialogue.com/en/"
+versions:
+  - sha: 1f9a81cb1672eb5b2dd10e77ada6bbbc650922ab
+    changeNotes: Initial release.
